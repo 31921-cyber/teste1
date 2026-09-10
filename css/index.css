@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 0, 0);
+}
+section{
+    width: 25%;
+    height: 25vh;
+    background-color: rgb(92, 167, 211);
+    float: left;
+    margin-left: 37.5%;
+    margin-top: 37.5vh;
+}
+section h2{
+    text-align: center;
+    margin-top: 12vh;
+}
